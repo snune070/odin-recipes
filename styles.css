@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(133, 97, 32);
+}
+
+ul,
+p1,
+h1 {
+    text-align: center;
+    align-self: center;
+}
+
+p1 {
+    font-size: 30px;
+    text-emphasis: bold;
+}
+
+ul a{
+    font-size: 24px;
+    color: black;
+    text-decoration: underline;
+    list-style: none;
+}
+
+ 
+.link {
+    color: black;
+    list-style: none;
+}
+
